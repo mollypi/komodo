@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/komodo is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Groovy](https://groovy-lang.org/) – Languages
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
@@ -12,11 +13,13 @@ mollypi/komodo is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/komodo is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
@@ -27,14 +30,15 @@ mollypi/komodo is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/komodo](https://github.com/mollypi/komodo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/15/23 <br/>Report generated|
+|15<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -140,13 +144,13 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[PyGithub](https://pypi.org/PyGithub)|N/A|01/20/22|Zohar Malamant |LGPL-3.0|N/A|
-|[PyYAML](https://pypi.org/PyYAML)|N/A|07/19/20|Jonas G. Drange |MIT|N/A|
-|[packaging](https://pypi.org/packaging)|N/A|09/26/22|Håvard Berland |BSD-3-Clause,Apache-2.0|N/A|
-|[requests](https://pypi.org/requests)|N/A|03/10/22|Anders Fredrik Kiær |Apache-2.0|N/A|
-|[ruamel.yaml](https://pypi.org/ruamel.yaml)|N/A|07/19/20|Jonas G. Drange |MIT|N/A|
+|[PyGithub](https://pypi.org/project/PyGithub)|N/A|01/20/22|Zohar Malamant |LGPL-3.0|N/A|
+|[PyYAML](https://pypi.org/project/PyYAML)|N/A|07/19/20|Jonas G. Drange |MIT|N/A|
+|[packaging](https://pypi.org/project/packaging)|N/A|09/26/22|Håvard Berland |BSD-3-Clause,Apache-2.0|N/A|
+|[requests](https://pypi.org/project/requests)|N/A|03/10/22|Anders Fredrik Kiær |Apache-2.0|N/A|
+|[ruamel.yaml](https://pypi.org/project/ruamel.yaml)|N/A|07/19/20|Jonas G. Drange |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
