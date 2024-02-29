@@ -1,0 +1,194 @@
+repo_name: mollypi/komodo
+report_id: 3643f303a7665ed0ae71a0ffc1395330
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:46:26+00:00'
+requested_by: berland
+provider: github
+branch: main
+detected_tools_count: 15
+tools:
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/mollypi/komodo
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/setup.py
+  detection_source: setup.py
+  last_updated_by: Jonas G. Drange
+  last_updated_on: 2020-07-19 18:24:07.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mollypi/komodo
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/komodo
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/.github/workflows/style.yml
+  detection_source: ".github/workflows/style.yml"
+  last_updated_by: Håvard Berland
+  last_updated_on: 2022-09-26 10:44:15.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/setup.py
+  detection_source: setup.py
+  last_updated_by: Pål Grønås Drange
+  last_updated_on: 2018-01-09 13:28:56.000000000 Z
+- name: flake8
+  description: Tool for style guide enforcement
+  website_url: https://github.com/PyCQA/flake8
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/dev-requirements.txt
+  detection_source: dev-requirements.txt
+  last_updated_by: Håvard Berland
+  last_updated_on: 2022-09-26 11:35:04.000000000 Z
+- name: isort
+  description: A Python utility / library to sort imports
+  website_url: https://pycqa.github.io/isort/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4835/default_0a87fe83d3c6dc2bd452e7bf2428b32269c080d2.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/dev-requirements.txt
+  detection_source: dev-requirements.txt
+  last_updated_by: Håvard Berland
+  last_updated_on: 2022-09-26 10:53:00.000000000 Z
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/dev-requirements.txt
+  detection_source: dev-requirements.txt
+  last_updated_by: Jonas Grønås Drange
+  last_updated_on: 2020-12-17 13:02:23.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mollypi/komodo
+  detection_source: Repo Metadata
+- name: PyGithub
+  description: Use the full Github API v3
+  package_url: https://pypi.org/project/PyGithub
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19957/default_f0290ff2792e2af7d13f5c82ed82206842ec288d.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/setup.py
+  detection_source: setup.py
+  last_updated_by: Zohar Malamant
+  last_updated_on: 2022-01-20 16:32:32.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/setup.py
+  detection_source: setup.py
+  last_updated_by: Jonas G. Drange
+  last_updated_on: 2020-07-19 18:24:07.000000000 Z
+- name: packaging
+  description: Core utilities for Python packages
+  package_url: https://pypi.org/project/packaging
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/setup.py
+  detection_source: setup.py
+  last_updated_by: Håvard Berland
+  last_updated_on: 2022-09-26 10:44:15.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/setup.py
+  detection_source: setup.py
+  last_updated_by: Anders Fredrik Kiær
+  last_updated_on: 2022-03-10 12:40:19.000000000 Z
+- name: ruamel.yaml
+  description: Ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation
+    of comments
+  package_url: https://pypi.org/project/ruamel.yaml
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19918/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/mollypi/komodo/blob/main/setup.py
+  detection_source: setup.py
+  last_updated_by: Jonas G. Drange
+  last_updated_on: 2020-07-19 18:24:07.000000000 Z
