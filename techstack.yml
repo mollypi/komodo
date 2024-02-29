@@ -2,7 +2,7 @@ repo_name: mollypi/komodo
 report_id: 3643f303a7665ed0ae71a0ffc1395330
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:41:47+00:00'
+timestamp: '2024-02-29T18:46:26+00:00'
 requested_by: berland
 provider: github
 branch: main
@@ -90,7 +90,7 @@ tools:
   last_updated_by: Håvard Berland
   last_updated_on: 2022-09-26 11:35:04.000000000 Z
 - name: isort
-  description: " A Python utility / library to sort imports"
+  description: A Python utility / library to sort imports
   website_url: https://pycqa.github.io/isort/
   license: MIT
   open_source: true
